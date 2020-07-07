@@ -13,6 +13,8 @@ respectivamente, este proceso se lleva acabo tras ejecutar el botón drive y esc
 Este proyecto requiere conexión a base de datos por lo cual utiliza el siguiente esquema de bases de datos y los siguientes procedimientos almacenados en MYSQL:
 
 https://drive.google.com/file/d/1LMmQZOzEPOHa7gEt7yfES-pqoOY3z2k8/view?usp=sharing
+
+
 https://drive.google.com/file/d/1q3eQutkEoAt1l-G3ugQhQBFDPBi-of42/view?usp=sharing
 
 
