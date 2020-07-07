@@ -17,5 +17,12 @@ https://drive.google.com/file/d/1LMmQZOzEPOHa7gEt7yfES-pqoOY3z2k8/view?usp=shari
 
 https://drive.google.com/file/d/1q3eQutkEoAt1l-G3ugQhQBFDPBi-of42/view?usp=sharing
 
+Los algortimos implementados son sencillos, practicos y seguros, ya que estos alteran el valor de los bytes del archivo al ser enviados, una vez llegados al destino,
+se aplica la desencriptación con el patrón recibido, de esta forma podremos alterar los bytes a su manera correcta y transformarlos en un mensaje, el cliente ni el 
+servidor se deben preocupar por esto ya que es automático.
+
+El cliente si lo desea puede utilizar el botón drive para escoger una carpeta la cual se mantendrá actualizada constantemente, en caso contrario solo basta con no
+utilizar dicha función y se logrará continuar sin problema alguno.
+
 
 
